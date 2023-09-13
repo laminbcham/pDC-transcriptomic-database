@@ -2,7 +2,7 @@
 Step-by-step codes used in the development of pDC transcriptomic database
 
 ###################################################################################################################################
-###### developed database of pDCs from healthy individuals compared to PWH ########################################
+###### developed database of pDCs from healthy individuals compared to PWH #########################################
 ####################################################################################
 library(Seurat)
 library(ShinyCell)
